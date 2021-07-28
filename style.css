@@ -1,0 +1,35 @@
+.t {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Quicksand";
+    width: 70%;
+}
+
+.h {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(102, 235, 131);
+}
+
+.t td {
+    border-style: solid;
+    border-color: black;
+}
+
+.s {
+    color: red;
+}
+
+.btn {
+    width: 100px;
+    height: 25px;
+    background-color: rgb(0, 153, 255);
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
